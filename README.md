@@ -2,5 +2,5 @@ We are developing a python package (AMV-Py: Collection of Python Scripts) that a
 
 Contributers
 
-Biruk Abera Cherkose
-hakim SAIBI
+Biruk Abera Cherkose and 
+Hakim SAIBI
