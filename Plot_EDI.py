@@ -1,28 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May  6 00:24:39 2021
-
-@author: Biruk A. Cherkose
-"""
-
-
-"""
                 Plot_EDI.py
                 ------
   - This program plots Apparent resistivity and Phase curves
-  - Calculates and plots the Swift-Skew (κ) and Phase-Sensitive skew (η) 
-  - file (EDI format == imp(z)).
-  - Produce *.mt file that conatins caculated Apparent resistivity and Phase values
-    and Swift-Skew (κ) and Phase-Sensitive skew (η).
-    
-HOW THE PROGRAM WORKS
-   - Put the path of edi file (name_of_folder) in the USER INPUT section
-   - Input the sation name (EDI file name)
-   - Then RUN
-   
-OUTPUT after Runing the Program
-   - JPG files for MT Curves and Swift-Skew (κ) and Phase-Sensitive skew (η)
-   - *.mt file
 
 """
 
